@@ -167,7 +167,9 @@
 }
 
 .notion-collection-row {
-  padding-bottom: 1em;
+	margin: 0px;
+	padding: 0px;
+	border-bottom: 0px;
 }
 
 .notion-collection-page-properties .notion-collection-column-title {

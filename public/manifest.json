@@ -1,6 +1,6 @@
 {
-  "name": "Next.js Notion Starter Kit",
-  "short_name": "Starter Kit",
+	"name": "Mintnoii Blog",
+  "short_name": "Mintnoii",
   "icons": [
     {
       "src": "/favicon.png",
